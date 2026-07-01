@@ -1,0 +1,6 @@
+{
+  "name": "Aardvark Energy",
+  "description": "A modern smart meter and utility management system for electricity companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
